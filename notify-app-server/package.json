@@ -1,0 +1,14 @@
+{
+  "name": "notify-app",
+  "version": "1.0.0",
+  "description": "simples application to notify via socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "test app"
+  },
+  "author": "Willian Spalaor",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
+}
